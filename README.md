@@ -3,7 +3,9 @@ Synopsis i faget Test
 
 Simon Bo Dall Mikkelsen ([LinkedIn](https://www.linkedin.com/in/wizhi/)), UCL Vejle, Pba. i Softwareudvikling 2018
 
-Jeg skrev denne korte synopsis til min eksamination i faget Test. Bemaerk, at jeg tidligere kun har skrevet en anden synopsis opgave, saa jeg kan ikke garantere, at formattet er 100% korrekt.
+Jeg skrev denne korte synopsis til min eksamination i faget Test. 
+
+Opgaven er delt fordi, at jeg fandt det utroligt svaert, at finde konkrete eksempler paa synopsis afleveringer. Da dette er den foerste (og nok sidste) synopsis jeg har skrevet, er formattet nok ikke 100% korrekt. Dog haaber jeg, at dette kan give lidt inspiration til andre, der sidder i samme situation som mig.
 
 Kort fortalt, fokuserer denne synopsis paa, hvordan man i teorien kunne lave automatiseret testning af software systemer, bygget paa microservice arkitekturen. Jeg fik et 12 tal for den.
 
