@@ -1,9 +1,7 @@
 Synopsis i faget Test
 =====================
 
-Simon Bo Dall Mikkelsen ([LinkedIn](https://www.linkedin.com/in/wizhi/))
-Pba. i Softwareudvikling, 2019
-UCL Vejle
+Simon Bo Dall Mikkelsen ([LinkedIn](https://www.linkedin.com/in/wizhi/)), UCL Vejle, Pba. i Softwareudvikling 2018
 
 Jeg skrev denne korte synopsis til min eksamination i faget Test. Bemaerk, at jeg tidligere kun har skrevet en anden synopsis opgave, saa jeg kan ikke garantere, at formattet er 100% korrekt.
 
